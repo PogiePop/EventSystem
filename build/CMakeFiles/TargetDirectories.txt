@@ -1,0 +1,4 @@
+C:/vscode-workplace/c/Event/build/CMakeFiles/event.dir
+C:/vscode-workplace/c/Event/build/CMakeFiles/test_map.dir
+C:/vscode-workplace/c/Event/build/CMakeFiles/ALL_BUILD.dir
+C:/vscode-workplace/c/Event/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "test_map.dir\\Debug\\map_test.cppm.obj",
+            "outputs": [
+                "C:\\vscode-workplace\\c\\Event\\build\\test_map.dir\\Debug\\vc143.pdb",
+                "test_map.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
